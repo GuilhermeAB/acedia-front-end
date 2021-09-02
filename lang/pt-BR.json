@@ -1,0 +1,21 @@
+{
+    "NAME": "Nome",
+    "NAME_REQUIRED": "Nome não foi informado",
+    "NAME_MIN_LENGTH": "Nome deve possuir mais que {value} caracteres",
+    "NAME_MAX_LENGTH": "Nome deve possuir menos que {value} caracteres",
+    "NAME_INVALID": "Nome inválido",
+    "BIRTH_DATE_REQUIRED": "Data de nascimento não informada",
+    "BIRTH_DATE_INVALID": "Data de nascimento inválida",
+    "BIRTH_DATE_MIN_DATE": "Voce deve ter no mínimo {value} anos para utilizar nossa plataforma",
+    "GENDER_REQUIRED": "Gênero não foi informado",
+    "GENDER_INVALID": "Gênero invalido",
+    "GENDER_NOT_FOUND": "Gênero não encontrado",
+    "BIRTH_DATE": "Data de nascimento",
+    "OPTIONAL": "Opcional",
+    "MALE": "Masculino",
+    "FEMALE": "Feminino",
+    "OTHER": "Outro",
+    "GENDER": "Gênero",
+    "SAVE_PERSON": "Salvar pessoa",
+    "PERSON_ADDED": "Pessoa salva com sucesso"
+}
